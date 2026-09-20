@@ -2,7 +2,7 @@
 
 A 16-pad rhythm trainer and drum machine that runs entirely in the browser — no build step, no dependencies, no sample files. Every drum sound is synthesized live with the Web Audio API.
 
-![Groove Sixteen screenshot](screenshots/screenshot.png)
+![Groove Sixteen screenshot](screenshot.png)
 
 ## Features
 
