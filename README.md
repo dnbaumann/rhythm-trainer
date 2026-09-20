@@ -54,7 +54,7 @@ Requires the Web Audio API (`AudioContext`), which is supported in all current v
 
 ## License
 
-No license is currently attached to this project. If you plan to share or accept contributions, consider adding a `LICENSE` file — [MIT](https://choosealicense.com/licenses/mit/) is a common, permissive choice for a small project like this.
+This project is offered under the MIT license — [MIT](https://choosealicense.com/licenses/mit/) .
 
 ## Credits
 
